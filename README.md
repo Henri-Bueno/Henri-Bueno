@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="./src/nuvens.gif" alt="Nuvens"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
 
 </div>
@@ -21,28 +23,7 @@
 
 ---
 
-```ts
-const henrique = {
-  role: "Full Stack Development Student",
-  education: "DSM - Fatec",
-  currentlyLearning: [
-    "React",
-    "TypeScript",
-    "Python",
-    "Docker"
-  ],
-  technologies: [
-    "JavaScript",
-    "Express",
-    "PostgreSQL",
-    "Git"
-  ],
-  interests: [
-    "Web Development",
-    "Open Source",
-  ],
-};
-```
+<p align="center"> Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atualmente em busca do meu primeiro estágio na área. Estou constantemente aprimorando meus conhecimentos e desenvolvendo projetos para colocar em prática o que aprendo e evoluir como desenvolvedor.
 
 ---
 
@@ -58,13 +39,14 @@ const henrique = {
 
 <h4>⚡ My Stack</h4>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,postgres,docker,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express"/><br>
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,git,github,figma,vscode"/>
 
 </td>
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./src/Windy-city.gif" width="220px" height="330px"/>
+<img src="./src/study.gif" width="250px" height="375px"/>
 
 </td>
 </tr>
