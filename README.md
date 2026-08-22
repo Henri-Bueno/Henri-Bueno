@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500px" src="./src/nuvens.gif" alt="Nuvens"/>
+<img width="100%" src="./src/nuvens.gif" alt="Nuvens" height="250"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
 
