@@ -17,8 +17,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=66D4FF&center=true&vCenter=true&width=900&lines=Hello+World!;DSM+Student+at+Fatec;Full+Stack+Development+Student;Learning+React%2C+TypeScript%2C+Python+and+Docker;RPG+Master+%26+Software+Developer"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=66D4FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile!;I'm+Henrique+Bueno;Software+Development+Student;Building+my+path+in+technology;One+project+at+a+time"/>
 </div>
 
 ---
@@ -55,7 +54,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
