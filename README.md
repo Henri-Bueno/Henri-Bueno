@@ -1,17 +1,11 @@
 <div align="center">
 
-<img width="100%" src="./src/ondas.gif" alt="Ondas" height="180px"/>
+<img width="100%" src="./src/ondas.gif" alt="Ondas" height="280px"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Henri-Bueno&color=00A8FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Henri-Bueno?style=for-the-badge&color=00A8FF"/>
 
 </div>
+
 
 <br>
 
@@ -21,6 +15,14 @@
 </div>
 
 ---
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
+
+<img src="https://komarev.com/ghpvc/?username=Henri-Bueno&color=00A8FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Henri-Bueno?style=for-the-badge&color=00A8FF"/>
+
+</div>
 
 <p align="center"> Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí, atualmente em busca do meu primeiro estágio na área. Estou constantemente aprimorando meus conhecimentos e desenvolvendo projetos para colocar em prática o que aprendo e evoluir como desenvolvedor.
 
