@@ -47,27 +47,27 @@ const henrique = {
 ---
 
 <table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<tr>
+<td width="65%" valign="top">
 
-      <h4>Connect with Me</h4>
+<h4>Connect with Me</h4>
 
-      <a href="https://github.com/Henri-Bueno">
-        <img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
-      </a>
+<a href="https://github.com/Henri-Bueno">
+<img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
+</a>
 
-      <h4>⚡ My Stack</h4>
+<h4>⚡ My Stack</h4>
 
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,postgres,docker,git,github,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,postgres,docker,git,github,figma,vscode"/>
 
-    </td>
+</td>
 
-    <td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
 
-      <img src="src/Windy-city.gif" width="220px" height="330px"/>
+<img src="./src/Windy-city.gif" width="220px" height="330px"/>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
