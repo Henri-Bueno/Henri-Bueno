@@ -46,30 +46,29 @@ const henrique = {
 
 ---
 
-# Connect with me
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
 
-<div align="center">
+      <h4>Connect with Me</h4>
 
-<a href="https://github.com/Henri-Bueno">
-<img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
-</a>
+      <a href="https://github.com/Henri-Bueno">
+        <img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
+      </a>
 
-<!-- LinkedIn -->
-<!-- <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-003B73?style=for-the-badge&logo=linkedin&logoColor=66D4FF"/>
-</a> -->
+      <h4>⚡ My Stack</h4>
 
-</div>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,postgres,docker,git,github,figma,vscode"/>
 
----
+    </td>
 
-# ⚡ My Stack
+    <td width="35%" align="center" valign="middle">
 
-<div align="center">
+      <img src="src/Windy-city.gif" width="220px" height="330px"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,express,python,postgres,docker,git,github,figma,vscode"/>
-
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
