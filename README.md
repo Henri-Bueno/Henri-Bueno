@@ -1,15 +1,13 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:1E3A8A,100:3B82F6&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Henri-Bueno&color=3B82F6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Henri-Bueno?style=for-the-badge&color=3B82F6"/>
+<img src="https://komarev.com/ghpvc/?username=Henri-Bueno&color=00A8FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Henri-Bueno?style=for-the-badge&color=00A8FF"/>
 
 </div>
 
@@ -17,13 +15,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Hello+World!;DSM+Student+at+Fatec;Full+Stack+Development+Student;Learning+React%2C+TypeScript%2C+Python+and+Docker;RPG+Master+%26+Software+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=66D4FF&center=true&vCenter=true&width=900&lines=Hello+World!;DSM+Student+at+Fatec;Full+Stack+Development+Student;Learning+React%2C+TypeScript%2C+Python+and+Docker;RPG+Master+%26+Software+Developer"/>
 
 </div>
 
 ---
-
-# 👋 Sobre Mim
 
 ```ts
 const henrique = {
@@ -50,6 +46,23 @@ const henrique = {
 
 ---
 
+# Connect with me
+
+<div align="center">
+
+<a href="https://github.com/Henri-Bueno">
+<img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
+</a>
+
+<!-- LinkedIn -->
+<!-- <a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-003B73?style=for-the-badge&logo=linkedin&logoColor=66D4FF"/>
+</a> -->
+
+</div>
+
+---
+
 # ⚡ My Stack
 
 <div align="center">
@@ -60,23 +73,7 @@ const henrique = {
 
 ---
 
-# 🎯 Objetivos Atuais
-
-```text
-loading_goals...
-
-█████████████░░░░░░  Aprimorar React
-████████████░░░░░░░  Aprender Docker
-███████████░░░░░░░░  Evoluir em TypeScript
-██████████░░░░░░░░░  Construir projetos maiores
-██████████████░░░░░  Organizar Portfólio
-
-Status: IN_PROGRESS
-```
-
----
-
-# 🔥 Sequência de Contribuições
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -86,7 +83,19 @@ Status: IN_PROGRESS
 
 ---
 
-# 📈 Atividade
+<div align="center">
+
+<a href="https://github.com/Henri-Bueno/github-readme-stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Henri-Bueno&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=080B14&title_color=66D4FF&text_color=FFFFFF&border_radius=8&border_color=003B73&icon_color=00A8FF&theme=github_dark" alt="GitHub Stats">
+</a>
+
+<a href="https://github.com/Henri-Bueno/github-readme-stats">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henri-Bueno&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=66D4FF&hide=html,css&bg_color=080B14&text_color=D6EFFF&border_radius=8&border_color=003B73&count_private=true" alt="Most Used Languages">
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -96,25 +105,8 @@ Status: IN_PROGRESS
 
 ---
 
-# 🌎 Conecte-se Comigo
-
-<div align="center">
-
-<a href="https://github.com/Henri-Bueno">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<!-- LinkedIn -->
-<!-- <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
-
-</div>
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comHenri-Bueno/Henri-Bueno/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/output/github-contribution-grid-snake.svg">
 </picture>
