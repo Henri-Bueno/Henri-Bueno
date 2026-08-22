@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500px" src="./src/nuvens.gif" alt="Nuvens"/>
+<img width="100%" src="./src/ondas.gif" alt="Ondas" height="180px"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B14,35:003B73,70:0077CC,100:00A8FF&text=Henrique%20Bueno&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Development%20Student&descAlignY=60"/>
 
@@ -27,9 +27,9 @@
 
 ---
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
-<td width="65%" valign="top">
+<td width="65%" align="center" valign="middle">
 
 <h4>Connect with Me</h4>
 
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=00A8FF"/>
 </a>
 
-<h4>⚡ My Stack</h4>
+<h4>My Stack</h4>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/><br>
 <img src="https://skillicons.dev/icons?i=vite,nodejs,express,python,postgres"/><br>
