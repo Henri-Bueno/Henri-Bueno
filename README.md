@@ -50,7 +50,7 @@ const henrique = {
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ My Stack
 
 <div align="center">
 
