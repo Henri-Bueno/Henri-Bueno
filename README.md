@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./src/ondas.gif" alt="Ondas" height="280px"/>
+<img width="100%" src="./src/Nuvens.gif" alt="Nuvens" height="100%"/>
 
 
 
