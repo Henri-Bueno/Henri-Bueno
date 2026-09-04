@@ -80,14 +80,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henri-Bueno&theme=github-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/output/github-contribution-grid-snake.svg">
