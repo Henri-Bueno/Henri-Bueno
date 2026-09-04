@@ -77,7 +77,6 @@
 </a>
 
 </div>
-
 ---
 
 <picture align="center">
