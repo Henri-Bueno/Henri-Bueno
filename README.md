@@ -3,7 +3,6 @@
 <img width="100%" src="./src/onda.gif" alt="Onda" height="280px"/>
 
 
-
 </div>
 
 
