@@ -54,26 +54,19 @@
 ---
 
 # GitHub Stats
+<div align="center">
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Henri-Bueno&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Henri-Bueno&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://raw.githubusercontent.com/Henri-Bueno/Henri-Bueno/main/profile-summary-card-output/city_lights/2-most-commit-language.svg"/>
 
 </div>
 
----
-
-<div align="center">
-
-<a href="https://github.com/Henri-Bueno/github-readme-stats">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Henri-Bueno&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=080B14&title_color=66D4FF&text_color=FFFFFF&border_radius=8&border_color=003B73&icon_color=00A8FF&theme=github_dark" alt="GitHub Stats">
-</a>
-
-<a href="https://github.com/Henri-Bueno/github-readme-stats">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henri-Bueno&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=66D4FF&hide=html,css&bg_color=080B14&text_color=D6EFFF&border_radius=8&border_color=003B73&count_private=true" alt="Most Used Languages">
-</a>
 
 </div>
+
+
 ---
 
 <picture align="center">
